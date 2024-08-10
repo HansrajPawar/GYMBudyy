@@ -3,10 +3,10 @@
 /node_modules
 /.pnp
 .pnp.js
-.env
+/.env
 # testing
 /coverage
-.gitignore
+/.gitignore
 
 # production
 /build
