@@ -7,6 +7,4 @@
 # testing
 /coverage
 
-
-src\utils\fetchData.js
 /src/utils/fetchData.js
